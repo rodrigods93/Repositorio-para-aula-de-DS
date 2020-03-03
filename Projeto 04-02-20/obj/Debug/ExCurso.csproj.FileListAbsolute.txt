@@ -1,0 +1,24 @@
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.exe.config
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.exe
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.pdb
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\ExCurso.csprojAssemblyReference.cache
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmCursos.resources
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.Properties.Resources.resources
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\ExCurso.csproj.GenerateResource.cache
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.exe
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.pdb
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmLogin.resources
+D:\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmSistema.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.exe.config
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.exe
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.pdb
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\ExCurso.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmCursos.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmLogin.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.FrmMedia.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmPrincipal.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmSistema.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.Properties.Resources.resources
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\ExCurso.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.exe
+C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.pdb
