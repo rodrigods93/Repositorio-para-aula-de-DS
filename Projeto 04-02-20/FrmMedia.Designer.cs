@@ -42,7 +42,7 @@
             // 
             // btnSair
             // 
-            this.btnSair.Location = new System.Drawing.Point(426, 183);
+            this.btnSair.Location = new System.Drawing.Point(419, 183);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(75, 23);
             this.btnSair.TabIndex = 0;
@@ -52,7 +52,7 @@
             // 
             // btnMedia
             // 
-            this.btnMedia.Location = new System.Drawing.Point(338, 183);
+            this.btnMedia.Location = new System.Drawing.Point(327, 183);
             this.btnMedia.Name = "btnMedia";
             this.btnMedia.Size = new System.Drawing.Size(75, 23);
             this.btnMedia.TabIndex = 1;
@@ -90,6 +90,7 @@
             this.lblMedia.Size = new System.Drawing.Size(133, 46);
             this.lblMedia.TabIndex = 5;
             this.lblMedia.Text = "Média";
+            this.lblMedia.Click += new System.EventHandler(this.lblMedia_Click);
             // 
             // lblN1
             // 
@@ -123,7 +124,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(816, 293);
             this.Controls.Add(this.lblN3);
             this.Controls.Add(this.lblN2);
             this.Controls.Add(this.lblN1);
@@ -138,6 +139,7 @@
             this.Name = "FrmMedia";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmMedia";
+            this.Load += new System.EventHandler(this.FrmMedia_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

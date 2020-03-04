@@ -22,3 +22,16 @@ C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Deb
 C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\ExCurso.csproj.GenerateResource.cache
 C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.exe
 C:\Users\rodri\Desktop\Etec\DS Rodrigo\Projeto 04-02-20\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.pdb
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.exe.config
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.exe
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\bin\Debug\Projeto 04-02-20.pdb
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\ExCurso.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmCursos.resources
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmLogin.resources
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.FrmMedia.resources
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmPrincipal.resources
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.frmSistema.resources
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto_04_02_20.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\ExCurso.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.exe
+C:\Users\Aluno\Desktop\Repositorio-para-aula-de-DS\Projeto 04-02-20\obj\Debug\Projeto 04-02-20.pdb

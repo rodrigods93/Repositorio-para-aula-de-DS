@@ -36,7 +36,7 @@ namespace Projeto_04_02_20
                 num2 = double.Parse(txtNum2.Text);
                 num3 = double.Parse(txtNum3.Text);
                 media = (num1 + num2 + num3) / 3;
-                MessageBox.Show("Media: " + media);
+                MessageBox.Show(string.Format("Media: {0:0.0}",media));
                 if (media >= 7)
                 {
                     MessageBox.Show("Aluno Aprovado");
@@ -59,6 +59,16 @@ namespace Projeto_04_02_20
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmMedia_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblMedia_Click(object sender, EventArgs e)
         {
 
         }
